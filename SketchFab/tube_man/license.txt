@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tube Man
+* source:	https://sketchfab.com/3d-models/tube-man-bbafd60b419d4533a8aff5460a5ef0a4
+* author:	Batuhan13 (https://sketchfab.com/Batuhan13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tube Man" (https://sketchfab.com/3d-models/tube-man-bbafd60b419d4533a8aff5460a5ef0a4) by Batuhan13 (https://sketchfab.com/Batuhan13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
